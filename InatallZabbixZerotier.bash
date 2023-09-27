@@ -1,5 +1,5 @@
 #!/bin/bash
-ZABBIX_SERVER="172.20.10.3"
+ZABBIX_SERVER="172.20.10.4"
 
 # Install Zabbix Agent
 sudo apt update
